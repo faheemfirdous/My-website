@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">This is a repository for my website <br>Checkout my website by tapping the link below </p>
+<p align="center">This is a repository for my website <br>Checkout my website by tapping the slack button below👇 </p>
 
 ###
 

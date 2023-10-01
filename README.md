@@ -2,11 +2,17 @@
 
 ###
 
-<p align="center">This is my Web development <br>repository</p>
+<p align="center">This is a repository for my website <br>Checkout my website by tapping the link below </p>
 
 ###
 
-<p align="center">✨ In this repository there are all the websites that I have made through out my learning process</p>
+<br clear="both">
+
+<div align="center">
+  <a href="https://faheemfirdous.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+</div>
 
 ###
 
